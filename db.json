@@ -1,0 +1,24 @@
+{
+    "monsters": [
+        {
+            "id": 1,
+            "name": "Cronenberg Fly",
+            "imageURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXxZoI_bK1VhS1JBulWx2OMnKEMnSOvVSGjQ&usqp=CAU"
+        },
+        {
+            "id": 2,
+            "name": "Zombie",
+            "imageURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyQGRMaP6gALVgnM-GhQZx44UyX0_Hvp3psQ&usqp=CAU"
+        },
+        {
+            "id": 3,
+            "name": "Behemoth",
+            "imageURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToTt6Jp8qlAbh3tFUSa0P9xdqJLenFFR7hHg&usqp=CAU"
+        },
+        {
+            "id": 4,
+            "name": "Tiamat",
+            "imageURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTn_t4zs3-hWftZVFXLpyxBNozN8q4z2RZS6w&usqp=CAU"
+        }
+    ]
+}
